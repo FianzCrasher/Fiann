@@ -1,10 +1,6 @@
 {
-    "6282162734792": {
-     "name": "Alfian",
-     "password": "24"   
-    },
-    "6282146386047": {
-     "nama": "Fianz",
-     "password": "11"
-  }
+  "tokens": [
+    "7871279705:AAHcu-RjHudjw0vgeyonBCh_O0g_uBs8ENU",
+    "8440504957:AAG3r3uvfqqnqL90bOGKQmPu1YtRaZ3ucDw", 
+  ]
 }
